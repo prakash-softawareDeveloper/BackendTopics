@@ -18,4 +18,5 @@ public class SampleController {
     public String bye() {
         return "Bye Everyone";
   }
+  //
 }
